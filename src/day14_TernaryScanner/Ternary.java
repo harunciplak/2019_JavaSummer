@@ -19,7 +19,7 @@ public class Ternary {
 		else
 			Finals = ' ';
 			
-			new method
+			new method added. This is good
 		  
 	 */
 	public static void main(String[] args) {
