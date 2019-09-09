@@ -18,6 +18,8 @@ public class Ternary {
 				Finals = 'F';
 		else
 			Finals = ' ';
+			
+			new method
 		  
 	 */
 	public static void main(String[] args) {
